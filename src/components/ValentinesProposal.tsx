@@ -178,7 +178,7 @@ export default function ValentinesProposal() {
              Yeheyyy!!!, I love you! 💕
             <p className="text-sm mt-4">Date tayo sa D'KING sa 14, See you there! Mwaaa!❤️</p>
             <Image
-              src="/hamster_jumping.gif"
+              src="/envato_video_gen_Feb_12_2026_8_12_24.gif"
               alt="Hamster Feliz"
               width={200}
               height={200}
